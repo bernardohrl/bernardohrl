@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bernardohrl/bernardohrl/master/assets/header.png" alt="Header" />
+<img src="https://raw.githubusercontent.com/bernardohrl/bernardohrl/master/assets/header.svg" alt="Header" />
 
 Hey There 👋🏻, 
 
