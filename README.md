@@ -2,11 +2,13 @@
 
 Hey There 👋🏻, 
 
-I am Bernardo Henrique, Software Engineer from Brazil 🇧🇷, and I’m looking to collaborate on opensource projects.
+I am Bernardo Henrique, Software Engineer from Brazil 🇧🇷 looking to collaborate on opensource projects.
  
 Besides development, I'm also interested on Social Projects and Mentoring.
 
-My favorite languages are Java,
+
+
+My favorite languages are Java <img  width="20px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java logo">,
 Python 
 <img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="JS logo" />
 and Javascipt 
